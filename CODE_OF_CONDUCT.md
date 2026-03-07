@@ -127,6 +127,5 @@ at [https://www.contributor-covenant.org/translations][translations].
 
 [homepage]: https://www.contributor-covenant.org
 [v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
-[mozilla coc]: https://github.com/mozilla/diversity
 [faq]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
