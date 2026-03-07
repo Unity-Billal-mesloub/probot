@@ -27,7 +27,7 @@ To submit a pull request for a previous version of Probot, checkout the maintena
 
 ## Merging the Pull Request & releasing a new version
 
-Releases are automated using [semantic-release](https://github.com/semantic-release/semantic-release).
+Releases are automated using [semantic-release](https://github.com/Unity-Billal-mesloub/semantic-release).
 The following three commit message conventions determine which version is released:
 
 1. `fix: ...` or `fix(scope name): ...` prefix in subject: bumps fix version, e.g. `1.2.3` → `1.2.4`
@@ -40,10 +40,10 @@ New versions are released from the following branches
 
 1. `master`: new versions are published to npm using the `@latest` dist-tag
 1. `next`: new versions are published to npm using the `@next` dist-tag. When merging the `next` branch into `master`, the `@latest` dist-tag will be bumped automatically.
-1. `beta`: a new `@beta` version will be released. For example, if the current version is `7.5.0`, then the first version will be published as `8.0.0-beta` using the `@beta` dist-tag. The next version will be `8.0.0-beta.1`, etc. When merged into master, the `8.0.0` version will be released automatically and all release notes will be combined into the `8.0.0` release. See also [Publishing pre-releases](https://github.com/semantic-release/semantic-release/blob/beta/docs/recipes/pre-releases.md).
-1. `<version>.x`: For example `7.x`. New bug fix & feature releases are published the given version. No breaking changes are allowed. See also [Publishing maintenance releases](https://github.com/semantic-release/semantic-release/blob/beta/docs/recipes/maintenance-releases.md).
+1. `beta`: a new `@beta` version will be released. For example, if the current version is `7.5.0`, then the first version will be published as `8.0.0-beta` using the `@beta` dist-tag. The next version will be `8.0.0-beta.1`, etc. When merged into master, the `8.0.0` version will be released automatically and all release notes will be combined into the `8.0.0` release. See also [Publishing pre-releases](https://github.com/Unity-Billal-mesloub/semantic-release/blob/beta/docs/recipes/pre-releases.md).
+1. `<version>.x`: For example `7.x`. New bug fix & feature releases are published the given version. No breaking changes are allowed. See also [Publishing maintenance releases](https://github.com/Unity-Billal-mesloub/semantic-release/blob/beta/docs/recipes/maintenance-releases.md).
 
-When in doubt, ping [@gr2m](https://github.com/gr2m).
+When in doubt, ping [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub).
 
 ## Just starting out? Looking for how to help?
 
@@ -55,9 +55,9 @@ Use [this search][good-first-issue-search] to find Probot apps that have issues 
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
 
-[fork]: https://github.com/probot/probot/fork
-[pr]: https://github.com/probot/probot/compare
+[fork]: https://github.com/Unity-Billal-mesloub/probot/fork
+[pr]: https://github.com/Unity-Billal-mesloub/probot/compare
 [style]: https://prettier.io/
 [code-of-conduct]: CODE_OF_CONDUCT.md
 [good-first-issue-search]: https://github.com/search?utf8=%E2%9C%93&q=topic%3Aprobot+topic%3Aprobot-app+good-first-issues%3A%3E0&type=
-[linter]: https://github.com/probot/probot/blob/ts-readme/tslint.json
+[linter]: https://github.com/Unity-Billal-mesloub/probot/blob/ts-readme/tslint.json
