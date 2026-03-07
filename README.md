@@ -3,7 +3,7 @@
 </p>
 <h3 align="center"><a href="https://probot.github.io">Probot</a></h3>
 <p align="center">A framework for building GitHub Apps to automate and improve your workflow</p>
-<p align="center"><a href="https://npmjs.com/package/probot"><img src="https://badgen.net/npm/v/probot" alt="npm"></a> <a href="https://github.com/probot/probot/actions"><img src="https://github.com/probot/probot/actions/workflows/test.yml/badge.svg" alt="Build Status"></a> <a href="https://twitter.com/ProbotTheRobot"><img src="https://img.shields.io/twitter/follow/ProbotTheRobot" alt="@ProbotTheRobot on Twitter"></a>
+<p align="center"><a href="https://npmjs.com/package/probot"><img src="https://badgen.net/npm/v/probot" alt="npm"></a> <a href="https://github.com/Unity-Billal-mesloub/probot/actions"><img src="https://github.com/Unity-Billal-mesloub/probot/actions/workflows/test.yml/badge.svg" alt="Build Status"></a> 
 </p>
 
 ---
@@ -45,7 +45,7 @@ Probot is built by people just like you! Most of the interesting things are buil
 
 If you're interested in contributing to Probot itself, check out our [contributing docs](CONTRIBUTING.md) to get started.
 
-Want to discuss with Probot users and contributors? [Discuss on GitHub](https://github.com/probot/probot/discussions)!
+Want to discuss with Probot users and contributors? [Discuss on GitHub](https://github.com/Unity-Billal-mesloub/probot/discussions)!
 
 ## Ideas
 
